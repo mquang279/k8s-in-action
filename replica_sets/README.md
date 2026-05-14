@@ -12,6 +12,10 @@
   <img src="image.png" alt="alt text" width="700"/>
 </div>
 
+<div align="center">
+  <img src="image-5.png" alt="alt text" width="700"/>
+</div>
+
 # 2. ReplicaSet Spec
 ```yaml
 apiVersion: apps/v1
