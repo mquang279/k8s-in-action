@@ -42,3 +42,5 @@ spec:
 ```bash
 kubectl scale job <job_name> --replicas <number>
 ```
+## 3. CronJob
+`Job` chạy Pod ngay khi nó được tạo. Nhưng có những tác vụ cần chạy tại thời điểm nhất định và cần lặp lại.
